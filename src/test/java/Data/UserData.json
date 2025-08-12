@@ -1,0 +1,10 @@
+[
+  {
+    "UserName":"Admin",
+    "Password":"admin123",
+    "NewUserRole": "Admin",
+    "NewUserStatus": "Enabled"
+  }
+]
+
+
