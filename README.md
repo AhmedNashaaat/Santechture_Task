@@ -1,4 +1,4 @@
-# OrangeHRM Automation Project
+# OrangeHRM Automation Task
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23D94A26?logo=testng&logoColor=white)
 ![Allure Report](https://img.shields.io/badge/Allure_Report-%23E40026?logo=allure)
