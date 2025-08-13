@@ -135,8 +135,6 @@ public class BasePage {
     public void forceClearField(WebElement element) {
         // Click into the field
         element.click();
-
-        // Select all (works for most OS, adjust Keys if on Mac)
         element.sendKeys(Keys.CONTROL + "a");
 
         // Delete
